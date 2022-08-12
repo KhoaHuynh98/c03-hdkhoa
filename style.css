@@ -1,0 +1,42 @@
+body {
+    padding: 0 20%;
+    box-sizing: border-box;
+  }
+  .fake {
+    background-color: #999;
+    height: 400px;
+    margin: 100px 0;
+    
+  }
+
+  .boxred{
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding-top: 150px;
+  }
+
+  .choose{
+    text-align: center;
+    color: #222222;
+    margin-top: 200px;
+  }
+
+  .hcn{
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+
+  }
+
+  p{
+    font-size: 20px;
+  }
+
+  h3{
+      margin-top: 5px;
+    font-size: 80px;
+  }
+
